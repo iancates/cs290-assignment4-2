@@ -1,0 +1,14 @@
+Start: Mon, 4 May 2015 11:35:57 -0800
+Got started on setting up the html code for the forms.
+Set up a database to hold the movies.
+Made it so I could add movies to the database.
+Made it so I could delete movies from the database.
+End: Mon, 5 May 2015 15:49:11 -0800
+
+gap due to test in other class and some other work.
+
+Start: Sun, 10 May 2015 09:13:03 -0800
+Made the delete all button work.
+made the checkout/checkin button work
+Got the filter to work.
+End: Sun, 10 May 2015 13:18:25 -0800
